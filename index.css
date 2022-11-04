@@ -28,9 +28,9 @@ p {
 
 }
 #imagem-principal {
-    width: 10%;
-    margin-left: 80%;
-    border: 5px dotted salmon;
+    width: 15%;
+    margin-left: 50%;
+    border: 5px dotted rgb(31, 36, 43);
     float: left;
     position: absolute;
 }
